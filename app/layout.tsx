@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Create by Dreams Seller",
+  title: "Create by Dreams Seller 2025",
   description: "Crie. Inspire. Transforme.",
 };
 
